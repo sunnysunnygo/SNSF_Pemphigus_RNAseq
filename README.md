@@ -4,7 +4,13 @@ This repository is mainly for RNAseq anlaysis including PCA plot, DEGs list, fun
 
 
 
+Main Tools:
 
+Kallisto
+tximport
+DESeq2
+gage (clusterProfile)
+CARNIVAL
 
 
 
